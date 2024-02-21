@@ -1,0 +1,3 @@
+touch archivo1.txt
+git add archivo1.txt
+git commit -m
